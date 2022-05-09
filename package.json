@@ -2,7 +2,7 @@
   "name": "name",
   "displayName": "[name]",
   "version": "0.0.0",
-  "publisher": "yue7872",
+  "publisher": "blairyue",
   "packageManager": "pnpm@6.32.3",
   "description": "",
   "keywords": [],
@@ -11,7 +11,7 @@
     "url": "https://github.com/yue7872/[name]/issues"
   },
   "license": "MIT",
-  "author": "yue7872 <2258462872@qq.com>",
+  "author": "blairyue <2258462872@qq.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/yue7872/[name]"
